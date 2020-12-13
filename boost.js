@@ -1,1 +1,1 @@
-var func = '一个功能'；
+var func = '一个功能';
