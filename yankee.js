@@ -1,0 +1,1 @@
+const multiFunc = "这是阳基";
